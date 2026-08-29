@@ -1,0 +1,8 @@
+{
+  "name": "Remix PWBC Surf Host Avatar",
+  "description": "An interactive digital guide providing real-time surf updates, community videos, and local sponsor highlights for Port Waikato boardriders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
